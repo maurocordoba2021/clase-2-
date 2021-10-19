@@ -12,3 +12,6 @@ terminando el trabajo
 
 cambio en conjunto
 >>>>>>> 4f3c4db8f8d3bc6a9c92c48f74e7b45ad7829422
+
+
+console.log ("la concha tu madre")
