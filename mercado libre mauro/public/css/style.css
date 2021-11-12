@@ -38,9 +38,8 @@ article{
 nav{
     padding: 8px;
 }
-input{
-    margin-left: 8px;
-}
+
+
 .compra{
     text-align: center;
     margin: 4px 0px;
@@ -290,6 +289,86 @@ nav ul.lista li{
 
 form{
     background-color: #c9c9c9;
-    width: 70%;
-    text-align: center  ;
+    width: 100%;
+    
 }
+
+
+ div.inputs-1 {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0px;
+    flex-wrap: wrap;
+
+}
+.inputs-1 input{  
+    margin: 5px 0px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+div.Perfil{
+    display: flex;
+    justify-content: center;
+}
+
+div.Perfil label{
+    margin: 0px 15px;
+}
+
+div.inputs-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.inputs-2 label{
+    width: 60%;
+    text-align: center;
+}
+
+.inputs-2 input{
+    width: 60%;
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+
+form h4 {
+    text-align: center;
+}
+
+div.intereses{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.intereses div{
+    display: flex;
+    width: 60%;
+    
+}
+
+div.inputs-3{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0px;
+}
+
+.inputs-3 input{
+    border-radius: 5px;
+}
+
+div.inputs-4{
+    text-align: center;
+}
+.inputs-4 input{
+    border-radius: 5px;
+}
+
+div.inputs-5{
+    text-align: center;
+}
+
+
+
